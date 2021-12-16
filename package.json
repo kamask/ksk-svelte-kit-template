@@ -1,0 +1,20 @@
+{
+    "name": "ksk-svelte-kit-template",
+    "version": "0.0.1",
+    "scripts": {
+        "dev": "svelte-kit dev -p 80",
+        "build": "svelte-kit build",
+        "package": "svelte-kit package",
+        "preview": "svelte-kit preview"
+    },
+    "devDependencies": {
+        "@sveltejs/adapter-auto": "next",
+        "@sveltejs/adapter-node": "next",
+        "@sveltejs/kit": "next",
+        "svelte": "^3.44.0"
+    },
+    "type": "module",
+    "dependencies": {
+        "html-minifier-terser": "^6.1.0"
+    }
+}
