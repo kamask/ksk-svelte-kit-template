@@ -1,5 +1,5 @@
 {
-    "name": "ksk-svelte-kit-template",
+    "name": "kamask.ru",
     "version": "0.0.1",
     "scripts": {
         "dev": "svelte-kit dev -p 80",
